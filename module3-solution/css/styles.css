@@ -1,0 +1,27 @@
+/* CSS stylesheet for module3-solution/index.html */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 100%;
+    font-family: cursive;
+    }
+    
+.submenu {
+    height: 1000px;
+    background-color:lightgray;
+    }
+
+.navbar-links {
+    font-size: 2em;
+}
+
+p {
+    font-size: 1.6em;
+}
+
+.nomargin {
+    margin: 0px;
+}
